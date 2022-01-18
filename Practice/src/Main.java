@@ -1,5 +1,3 @@
-package practice01;
-
 import javax.swing.plaf.synth.SynthUI;
 import java.util.*;
 

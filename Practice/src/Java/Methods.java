@@ -1,4 +1,4 @@
-package practice01;
+package Java;
 
 public class Methods {
     public String name;

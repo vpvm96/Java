@@ -1,4 +1,4 @@
-package practice01;
+package Java;
 
 public class Variables {
     // 멤버 변수, 인스턴트 변수

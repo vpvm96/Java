@@ -1,4 +1,4 @@
-package Study;
+package Java;
 // 소스 파일 : Hello.java
 public class Structure {
     public static int sum(int n, int m) {

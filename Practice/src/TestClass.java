@@ -1,4 +1,3 @@
-package practice01;
 // 동적바인딩
 class TestClass2 extends TestClass {
     public TestClass2() {

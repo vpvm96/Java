@@ -1,4 +1,4 @@
-package practice01;
+package Java;
 
 public class Operator1 {
     public static void main(String[] args) {

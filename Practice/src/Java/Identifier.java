@@ -1,4 +1,4 @@
-package Study;
+package Java;
 
 public class Identifier {
     /*Identifier(식별자)란 클래스, 상수, 메소드 등에 붙이는 이름을 말한다.
@@ -23,9 +23,5 @@ public class Identifier {
 
             final double PI = 3.141592; // 상수 이름은 전체를 대문자로 표기하도록 권장.
         }
-    }
-    public static void main(String[] args) {
-
-
     }
 }

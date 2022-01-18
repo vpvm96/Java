@@ -1,4 +1,3 @@
-package practice01;
 import java.util.*;
 
 public class Array {

@@ -1,4 +1,4 @@
-package Study;
+package Java;
 
 public class MyInfoApp {
     public static void main(String[] args) {
